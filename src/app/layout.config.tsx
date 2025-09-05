@@ -36,12 +36,13 @@ export const baseOptions: BaseLayoutProps = {
     ),
   },
   links: [
-    {
-      icon: <Heart />,
-      text: 'Mission',
-      url: '/mission',
-      active: 'nested-url',
-    },
+    { icon: <Heart/>, text: 'Mission', url: '/mission', active: 'url' },
+    // {
+    //   icon: <Heart />,
+    //   text: 'Mission',
+    //   url: '/mission',
+    //   active: 'nested-url',
+    // },
     // Navigation Menu: https://fumadocs.vercel.app/docs/ui/navigation 
     {
       icon: <Pencil />,
