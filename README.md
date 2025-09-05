@@ -1,4 +1,4 @@
-# The Milky Way Foundation 🌌
+# The Glowy Lab 🌌
 <img width="3003" alt="Screenshot 2025-03-27 at 4 04 40 PM" src="https://github.com/user-attachments/assets/e0cb8016-aaa7-432d-88ab-733e15a98d03" />
 
 
